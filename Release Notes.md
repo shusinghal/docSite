@@ -3,6 +3,6 @@
 
 | S.no | Release Date | Release Version | Link                   |
 |------|--------------|-----------------|------------------------|
-| 1    | 24-Dec-2020  | Version 0.1     | [link](www.google.com) |
+| 1    | 30-Dec-2023  | Version 0.1     | [link](please request) |
 |      |              |                 |                        |
 |      |              |                 |                        |
