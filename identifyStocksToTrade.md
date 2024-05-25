@@ -1,0 +1,19 @@
+**Identify Stocks to Trade**
+=========================
+
+This program helps you identify stocks you want to trade and then fetches necessary details to place your order.
+
+**Manage the Stock Spreadsheet:**
+
+1. **Open the `stocks.xlsx` file.** An example is provided within the file to guide you.
+2. **In the "Params" tab, enter the following information:**
+    * **Stock name:** Column A
+    * **Capital to trade:** Column B (amount you allocate for this stock)
+    * **Stop loss:** Column C (price at which you exit if the price falls)
+    * **Trade symbol:** Column D (unique identifier for the stock)
+    * **Instrument token:** Column E (unique identifier used for placing orders)
+3. **Create a new sheet in the Excel file.**
+4. **Rename the new sheet to the corresponding trading symbol** listed in column D of the "Params" sheet.
+5. **Open the example sheet and copy its first row** to your newly created sheet.
+
+**Note:** You can also obtain trade symbol and instrument token values by contacting the Kotak Neo help center.
