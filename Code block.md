@@ -1,3 +1,5 @@
+#Edit this file to view the sample code in proper intended format.
+
 ## Sample Python Code 
 ### Login and place trade in live market
 from login.otpValidate import otpValidate
